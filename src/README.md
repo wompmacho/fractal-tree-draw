@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="828" height="550" src="/src/assets/img/FractalTreeExample.gif">
+</p>
+
 # Fractal Tree Viewer
 
 This is a simple Java application that demonstrates recursion by visualizing a fractal tree. It takes in an input for
