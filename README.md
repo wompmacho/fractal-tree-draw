@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="828" height="550" src="/src/assets/img/FractalTreeExample.gif">
+  <img width="828" height="550" src="/src/assets/gif/FractalTreeExample.gif">
 </p>
 
 # Fractal Tree Viewer
