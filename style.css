@@ -1,0 +1,19 @@
+#ANCHORPANE{
+-fx-background-color: #87ceeb;
+}
+
+#BRANCH_ANGLE_LABEL{
+-fx-color: white;
+}
+
+.slider{
+-fx-color: blue;
+}
+
+.slider .axis .axis-tick-mark{
+-fx-stroke: green;
+}
+
+.slider .axis .axis-minor-tick-mark {
+    -fx-stroke: grey;
+}
